@@ -2,7 +2,7 @@
 
 TL;DR: Open for work. I usually understand what the client needs from a marketing standpoint and how to do it from a developer's.
 
-Currently working on Django + Vue.js project that has grown from a simple landing page to a media publisher's main digital product with 11k users over the course of 1.5 years.
+Currently working on Django + Vue.js project that has grown from a simple landing page to a media publisher's main digital product with 14k users over the course of 1.5 years.
 
 ### Skills
 Python, Django, Vue.js, REST API, Digital marketing, Full-stack web development, UX/UI, Docker, Git, Team management
